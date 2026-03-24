@@ -1,0 +1,5 @@
+target/
+*.jar
+out.txt
+out_utf8.txt
+run_out.txt
